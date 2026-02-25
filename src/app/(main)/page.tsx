@@ -30,7 +30,7 @@ export default function Home() {
           </Text>
         </Badge>
         <Heading variant="display-strong-xl" marginTop="24">
-          Presence that doesn't beg for attention
+          Peter Aldrene Udtujan PORTFOLIO
         </Heading>
         <Text
           variant="heading-default-xl"
@@ -38,7 +38,7 @@ export default function Home() {
           wrap="balance"
           marginBottom="16"
         >
-          Build with clarity, speed, and quiet confidence
+          Illustrations, Graphic Designs, Video Edits, Game Dev
         </Text>
         <Button
           id="docs"
