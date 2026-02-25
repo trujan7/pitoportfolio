@@ -30,7 +30,7 @@ export default function Home() {
           </Text>
         </Badge>
         <Heading variant="display-strong-xl" marginTop="24">
-          Peter Aldrene Udtujan
+          Peter Udtujan
         </Heading>
         <Text
           variant="heading-default-xl"
