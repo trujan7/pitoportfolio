@@ -1,5 +1,5 @@
 // IMPORTANT: Replace with your own domain address - it's used for SEO in meta tags and schema
-const baseURL = "https://demo.once-ui.com";
+const baseURL = "https://trujan7.github.io/pitoportfolio/";
 
 // Import and set font for each variant
 import { Geist } from "next/font/google";
