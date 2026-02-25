@@ -26,11 +26,11 @@ export default function Home() {
           <Logo light icon="/trademarks/wordmark-light.svg" href="https://once-ui.com" size="xs" />
           <Line vert background="neutral-alpha-strong" />
           <Text marginX="4">
-            <LetterFx trigger="instant">An ecosystem, not a UI kit</LetterFx>
+            <LetterFx trigger="instant">PORTFOLIO</LetterFx>
           </Text>
         </Badge>
         <Heading variant="display-strong-xl" marginTop="24">
-          Peter Aldrene Udtujan PORTFOLIO
+          Peter Aldrene Udtujan
         </Heading>
         <Text
           variant="heading-default-xl"
