@@ -22,8 +22,8 @@ export default function Home() {
           vertical="center"
           gap="16"
         >
-          <Logo dark icon="/trademarks/wordmark-dark.svg" href="" size="xs" />
-          <Logo light icon="/trademarks/wordmark-light.svg" href="" size="xs" />
+          <Logo dark icon="/trademarks/wordmark-dark.svg" href="https://pitoportfoliooldapp.vercel.app/" size="xs" />
+          <Logo light icon="/trademarks/wordmark-light.svg" href="https://pitoportfoliooldapp.vercel.app/" size="xs" />
           <Line vert background="neutral-alpha-strong" />
           <Text marginX="4">
             <LetterFx trigger="instant">PORTFOLIO</LetterFx>
