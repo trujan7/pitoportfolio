@@ -38,7 +38,7 @@ export default function Home() {
           wrap="balance"
           marginBottom="16"
         >
-          Illustrations, Graphic Designs, Video Edits, Game Dev
+          Illustrations, Graphic Designs, Video Edits, Game Development
         </Text>
         <Button
           id="docs"
