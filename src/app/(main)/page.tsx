@@ -22,8 +22,8 @@ export default function Home() {
           vertical="center"
           gap="16"
         >
-          <Logo dark icon="/trademarks/wordmark-dark.svg" href="https://once-ui.com" size="xs" />
-          <Logo light icon="/trademarks/wordmark-light.svg" href="https://once-ui.com" size="xs" />
+          <Logo dark icon="/trademarks/wordmark-dark.svg" href="" size="xs" />
+          <Logo light icon="/trademarks/wordmark-light.svg" href="" size="xs" />
           <Line vert background="neutral-alpha-strong" />
           <Text marginX="4">
             <LetterFx trigger="instant">PORTFOLIO</LetterFx>
@@ -42,13 +42,13 @@ export default function Home() {
         </Text>
         <Button
           id="docs"
-          href="https://docs.once-ui.com/once-ui/quick-start"
+          href="https://pitoportfoliooldapp.vercel.app/"
           data-border="rounded"
           weight="default"
           prefixIcon="copy"
           arrowIcon
         >
-          Explore docs
+          Explore Portfolio
         </Button>
       </Column>
     </Column>

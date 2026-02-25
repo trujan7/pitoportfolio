@@ -68,9 +68,9 @@ const dataStyle = {
 const meta = {
   home: {
     path: "/",
-    title: "Once UI for Next.js",
+    title: "Peter Udtujan Portfolio",
     description:
-      "An open-source design system and component library for Next.js that emphasizes easy styling and accessibility in UI development.",
+      "Portfolio",
     image: "/images/og/home.jpg",
     canonical: "https://once-ui.com",
     robots: "index,follow",
@@ -90,9 +90,9 @@ const schema = {
 
 // social links
 const social = {
-  twitter: "https://www.twitter.com/_onceui",
-  linkedin: "https://www.linkedin.com/company/once-ui/",
-  discord: "https://discord.com/invite/5EyAQ4eNdS",
+  twitter: "https://www.twitter.com/",
+  linkedin: "https://www.linkedin.com/",
+  discord: "",
 };
 
 export { baseURL, fonts, style, meta, schema, social, dataStyle };
