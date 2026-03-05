@@ -26,6 +26,8 @@ export async function generateMetadata() {
   });
 }
 
+<meta name="google-site-verification" content="lKjcjlSgjELgZg_0ZAmGGRslN4LWC4X8I2yrUNPArS8" />
+
 export default function Home() {
   return (
     <Column maxWidth="m" gap="xl" paddingY="12" horizontal="center">
